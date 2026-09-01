@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://github.com/shubhambelbase/tacnet/releases/download/v2.5.3/tacnet_logo.png" alt="TAC-NET Logo" width="220" />
+<img src="https://github.com/shubhambelbase/tacnet/releases/download/v2.5.4/tacnet_logo.png" alt="TAC-NET Logo" width="220" />
 
 # TAC-NET
 
@@ -10,11 +10,11 @@
 [![Platform](https://img.shields.io/badge/PLATFORM-ANDROID%208.0%2B-00E676?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shubhambelbase/tacnet/releases/latest)
 [![Security](https://img.shields.io/badge/SECURITY-AES--256--GCM-00E676?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/shubhambelbase/tacnet)
 [![Network](https://img.shields.io/badge/NETWORK-OFF--GRID%20MESH-00E676?style=for-the-badge)](https://github.com/shubhambelbase/tacnet)
-[![Build](https://img.shields.io/badge/BUILD-v2.5.3--BETA-orange?style=for-the-badge)](https://github.com/shubhambelbase/tacnet)
+[![Build](https://img.shields.io/badge/BUILD-v2.5.4--BETA-orange?style=for-the-badge)](https://github.com/shubhambelbase/tacnet)
 
 <br />
 
-[📥 **DOWNLOAD BETA APK (v2.5.3)**](https://github.com/shubhambelbase/tacnet/releases/latest/download/app-debug.apk) • [⚡ **RELEASE NOTES**](https://github.com/shubhambelbase/tacnet/releases) • [📡 **CHANNEL SPECIFICATIONS**](#-channel-presets)
+[📥 **DOWNLOAD BETA APK (v2.5.4)**](https://github.com/shubhambelbase/tacnet/releases/latest/download/app-debug.apk) • [⚡ **RELEASE NOTES**](https://github.com/shubhambelbase/tacnet/releases) • [📡 **CHANNEL SPECIFICATIONS**](#-channel-presets)
 
 </div>
 
@@ -30,10 +30,16 @@
 
 ### 🎙️ Real-Time Voice Transceiver & LCD Dashboard
 - **Backlit Military LCD Ticker**: Live animated dot-matrix tactical message feed embedded directly into the central LCD dashboard with seamless auto-marquee for long messages and blinking cursor.
+- **SOS Auto-Dismissal**: Pressing the Push-to-Talk (PTT) key immediately acknowledges and dismisses active emergency distress alerts from the LCD ticker.
 - **Push-to-Talk (PTT)**: Instant, zero-lag voice transmission with clean half-duplex muting and haptic confirmation.
 - **4:1 IMA-ADPCM Voice Codec**: Compresses 16kHz PCM down to lightweight 244-byte UDP packets, preventing packet loss and buffer congestion over Wi-Fi and hotspot connections.
 - **Hardware DSP Integration**: Built-in Acoustic Echo Cancellation (AEC), Noise Suppression (NS), Automatic Gain Control (AGC), and configurable Squelch Gate.
 - **Procedural Radio FX**: Authentic NASA/Mil-Spec Roger Beeps, Key-Up Chirps, and Squelch Tails.
+
+### 📱 Tactical Comms & Keyboard UX
+- **Keyboard-Aligned Chat**: Full IME inset handling ensures text inputs and send buttons sit pinned cleanly above the soft keyboard without screen occlusion.
+- **TopBar Tactical Menu**: Quick dropdown access to **Tactical Settings** and the detailed **About Tac-Net** intelligence dossier.
+- **Comprehensive About Screen**: Explains system architecture, dual-path multicast/broadcast transceiver, hardware requirements, RF range limitations, and build specifications.
 
 ### 🔐 Military-Grade Security
 - **End-to-End Encryption (E2EE)**: Hardware-accelerated **AES-256-GCM** authenticated cipher.
@@ -93,5 +99,5 @@
 ---
 
 <div align="center">
-<sub>TAC-NET Tactical Systems • Built for Mission-Critical Off-Grid Communications</sub>
+<sub>TAC-NET Tactical Systems • Built & Engineered by Shubham • Mission-Critical Off-Grid Communications</sub>
 </div>
