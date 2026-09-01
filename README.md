@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://github.com/shubhambelbase/tacnet/releases/download/v3.0.0/tacnet_logo.png" alt="TAC-NET Logo" width="220" />
+<img src="https://github.com/shubhambelbase/tacnet/releases/download/v3.1.0/tacnet_logo.png" alt="TAC-NET Logo" width="220" />
 
 # TAC-NET
 
@@ -10,11 +10,11 @@
 [![Platform](https://img.shields.io/badge/PLATFORM-ANDROID%208.0%2B-00E676?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shubhambelbase/tacnet/releases/latest)
 [![Security](https://img.shields.io/badge/SECURITY-AES--256--GCM-00E676?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/shubhambelbase/tacnet)
 [![Network](https://img.shields.io/badge/NETWORK-OFF--GRID%20LOCAL-00E676?style=for-the-badge)](https://github.com/shubhambelbase/tacnet)
-[![Build](https://img.shields.io/badge/BUILD-v3.0.0--RELEASE-00E676?style=for-the-badge)](https://github.com/shubhambelbase/tacnet)
+[![Build](https://img.shields.io/badge/BUILD-v3.1.0--RELEASE-00E676?style=for-the-badge)](https://github.com/shubhambelbase/tacnet)
 
 <br />
 
-[📥 **DOWNLOAD OFFICIAL RELEASE APK (v3.0.0)**](https://github.com/shubhambelbase/tacnet/releases/latest/download/app-release.apk) • [⚡ **RELEASE NOTES**](https://github.com/shubhambelbase/tacnet/releases)
+[📥 **DOWNLOAD OFFICIAL RELEASE APK (v3.1.0)**](https://github.com/shubhambelbase/tacnet/releases/latest/download/app-release.apk) • [⚡ **RELEASE NOTES**](https://github.com/shubhambelbase/tacnet/releases)
 
 </div>
 
